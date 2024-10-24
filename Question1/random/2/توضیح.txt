@@ -1,0 +1,3 @@
+first scenario
+random
+total_log = 1
